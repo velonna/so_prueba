@@ -31,3 +31,11 @@
 # Debug files
 *.dSYM/
 *.su
+
+.cproject
+.metadata/
+.project
+RemoteSystemsTempFiles/
+pruebatpso/
+tecera/.cproject
+tecera/.project
